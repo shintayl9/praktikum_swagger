@@ -36,7 +36,7 @@ class ProductController extends Controller
 
     /**
      * @OA\Post(
-     *     path="/products",
+     *     path="/api/products",
      *     summary="Create a new product",
      *     @OA\RequestBody(
      *         @OA\JsonContent(
@@ -76,6 +76,7 @@ class ProductController extends Controller
      *         @OA\Schema(type="integer")
      *     ),
      *     @OA\Response(response="200", description="Product details")
+     *     @OA\Response(response="404", description="Product not found")
      * )
      */
     public function show($id)
