@@ -29,3 +29,12 @@ Dokumentasi API CRUD dengan Laravel dan Swagger
 **Tugas Praktikum**
 
 1. Tambahkan validasi untuk memastikan harga produk tidak boleh negatif.
+![alt text](image-4.png)
+![alt text](image-14.png)
+
+2. Tambahkan fitur pencarian produk berdasarkan nama ('GET /api/products?name=...').
+![alt text](image-15.png)
+
+3. Buat dokumentasi Swagger untuk endpoint pencarian tersebut.
+![alt text](image-16.png)
+![alt text](image-17.png)
