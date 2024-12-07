@@ -1,14 +1,15 @@
 Dokumentasi API CRUD dengan Laravel dan Swagger
 
-1. Instalasi L5 Swagger
+**Instalasi L5 Swagger**
 
 1. ![alt text](image.png)
 
-1. ![alt text](image-1.png)
+2. ![alt text](image-1.png)
 
-1. ![alt text](image-2.png)
+3. ![alt text](image-2.png)
 
-1. Membuat Database dan Model
+**Membuat Database dan Model**
+
 1. ![alt text](image-3.png)
 1. ![alt text](image-13.png)
 1. ![alt text](image-5.png)
